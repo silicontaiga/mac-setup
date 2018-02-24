@@ -18,3 +18,8 @@ git config --global color.ui auto
 
 export EDITOR="vim" in ~/.bash_profile
 
+## GNU Command Line Tools
+```bash
+brew install coreutils
+```
+

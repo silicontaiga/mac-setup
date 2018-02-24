@@ -54,7 +54,7 @@ brew install make
 brew install nano
 ```
 
-### Update existing non-GNU tools
+## Update existing non-GNU tools
 ```bash
 brew install file-formula
 brew install git

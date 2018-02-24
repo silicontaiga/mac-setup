@@ -1,6 +1,8 @@
 # mac-setup
 
 ## Setting up Homebrew
+[Hombrew Homepage](https://brew.sh/)
+
 ## Git
 ```bash
 brew install git

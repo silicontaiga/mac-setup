@@ -18,7 +18,12 @@ git config --global color.ui auto
 
 ## Editor
 
-export EDITOR="vim" in ~/.bash_profile
+```bash
+export VISUAL=vim
+export EDITOR="$VISUAL"
+```
+
+in ~/.bash_profile
 
 ## GNU Command Line Tools
 ```bash

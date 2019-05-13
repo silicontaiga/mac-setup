@@ -3,6 +3,8 @@
 ## Setting up Homebrew
 [Hombrew Homepage](https://brew.sh/)
 
+[Add shell completion](https://docs.brew.sh/Shell-Completion)
+
 ## Git
 ```bash
 brew install git

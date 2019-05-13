@@ -75,3 +75,8 @@ brew install vim
 brew install macvim
 brew install zsh
 ```
+
+## JDK
+```bash
+brew install jenv
+```

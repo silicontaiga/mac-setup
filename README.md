@@ -49,6 +49,11 @@ brew install wdiff
 brew install wget
 ```
 
+## non-GNU Command Line Tools
+```bash
+brew install tree
+```
+
 ## Update existing GNU tools
 ```bash
 brew install bash

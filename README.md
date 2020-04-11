@@ -85,3 +85,8 @@ brew install zsh
 ```bash
 brew install jenv
 ```
+
+## iTerm2
+```bash
+brew cask install iterm2
+```

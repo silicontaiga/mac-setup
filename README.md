@@ -1,5 +1,8 @@
 # mac-setup
 
+## oh my zsh
+https://ohmyz.sh/
+
 ## Setting up Homebrew
 [Hombrew Homepage](https://brew.sh/)
 

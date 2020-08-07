@@ -93,3 +93,8 @@ brew install jenv
 ```bash
 brew cask install iterm2
 ```
+
+## PostgreSQL Client
+```
+brew install libpq
+```
